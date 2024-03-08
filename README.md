@@ -1,2 +1,2 @@
-Ceci est un site statique réalisé en HTML et sass.
-version (desktop uniquement)
+This is a static site made in HTML and sass.
+version (desktop only)
